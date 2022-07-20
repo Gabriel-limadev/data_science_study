@@ -1,11 +1,13 @@
 ## 📎 Completed courses  
 - [Python Pandas: tratando e analisando dados](https://cursos.alura.com.br/course/introducao-python-pandas)
-
-## 📎 Courses in progress
 - [Pandas: formatos diferentes de entrada e saída (IO)](https://cursos.alura.com.br/course/pandas-io).
 
+## 📎 Courses in progress
+- [Estatística com Python: frequências e medidas](https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas).
+ 
 ## 📎 Tools used 
 - Anaconda
+- Jupyter Notebook
 - Google Colab
 
 ## 📎 Documentations
