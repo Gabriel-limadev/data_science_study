@@ -26,3 +26,4 @@ Here, i learned to use the linear regression technique, using the Scikitlearn li
 ## 📊 Data visualization
 For improved the visualization of my results, I delved into Matplotlib
 - [Data Visualization: técnicas de visualização com Google Sheets](https://cursos.alura.com.br/course/data-visualization-visualizacao-google-sheets)
+- [Data Visualization: criação de gráficos com o Matplotlib](https://cursos.alura.com.br/course/customizacao-matplot)
