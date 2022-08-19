@@ -30,3 +30,4 @@ For improved the visualization of my results, I delved into Matplotlib
 
 ## 📊 Tests with Data Science
 - [Data Science: testes estatísticos com Python](https://cursos.alura.com.br/course/data-science-introducao-a-testes-estatisticos-com-python)
+- [Análise de experimentos: testes, mapas de cores e análises dos dados](https://cursos.alura.com.br/course/analise-de-experimentos)
