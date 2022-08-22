@@ -29,5 +29,10 @@ For improved the visualization of my results, I delved into Matplotlib
 - [Data Visualization: criação de gráficos com o Matplotlib](https://cursos.alura.com.br/course/customizacao-matplot)
 
 ## 📊 Tests with Data Science
+This moment, i learned to use the statistics tests for to prove the analyzes obtained by the visualization
 - [Data Science: testes estatísticos com Python](https://cursos.alura.com.br/course/data-science-introducao-a-testes-estatisticos-com-python)
 - [Análise de experimentos: testes, mapas de cores e análises dos dados](https://cursos.alura.com.br/course/analise-de-experimentos)
+
+## 📊 Applying Data Science
+- [Data Science: análises para saúde e medicina](https://cursos.alura.com.br/course/data-science-saude-e-medicina)
+- [Data Science: visualização de dados para saúde e medicina](https://cursos.alura.com.br/course/data-science-visualizacao-saude-e-medicina)
